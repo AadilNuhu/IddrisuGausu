@@ -16,7 +16,7 @@ const Home = () => {
 
                 {/* Hero content */}
                 <div className="relative z-10 max-w-4xl mx-auto text-center">
-                    <h1 className="text-5xl md:text-6xl font-bold mb-2 text-shadow-lg/20">Iddris Gausu</h1>
+                    <h1 className="text-5xl md:text-6xl font-bold mb-2 text-shadow-lg/20">Iddrisu Gausu</h1>
                     <h2 className="text-2xl md:text-3xl font-semibold mb-6">Head Coach – Ashiaman Future Leaders FC</h2>
 
                     <p className="text-xl md:text-2xl italic mb-8">"Building Champions on and off the Field"</p>
